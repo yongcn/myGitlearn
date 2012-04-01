@@ -1,4 +1,4 @@
-﻿public abstract class Duck
+public abstract class Duck
 {
 	FlyBehavior flyBehavior;
 	QuackBehavior quackBehavior;

@@ -1,4 +1,4 @@
-﻿public class FlyWithWings implements FlyBehavior
+public class FlyWithWings implements FlyBehavior
 {
 	public void fly()
 	{
